@@ -1,0 +1,74 @@
+
+/********************Sayfaya Dair Tüm Ayarları Sıfırla ******************/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/***********************************************************************/
+
+
+/********************Google Resmi Eklendi******************/
+
+.img {
+    text-align: center;
+    margin-top: 160px;
+}
+
+/**********************************************************/
+
+/******************** Google Arama Kısmı ******************/
+
+.search {
+    text-align:-webkit-center;
+    background-color: #eeeeee;
+    width: 83%;
+    margin-left: 150px;
+    padding-bottom: 3px;
+    line-height: 25px;
+}
+/***********************************************************/
+
+/************************* Kutular Eklendi *********************************/
+
+.box {
+    display: flex;
+    margin: 0;
+}
+
+.box-1 {
+    background-color:#7ee5db ;
+    width: 32%;
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 2px;
+    line-height: 1.3rem;
+}
+
+.box-2 {
+    background-color:#7ee5db ;
+    padding-left:10px;
+    width: 18%;
+    margin-left: 2px;
+    text-align: center;
+    font-size: medium;
+    margin-top: 2px;
+    line-height: 1.3rem;
+    padding-top: 3px;
+}
+
+.box-3 {
+    background-color:#7ee5db ;
+    width: 31.3%;
+    padding-left: 10px;
+    margin-left: 2px;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 3px;
+    line-height: 1.3rem;
+}
+
+/*************************Son Rütuşlar Yapıldı ve Sayfa Tamamlandı*********************************/
